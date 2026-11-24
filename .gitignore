@@ -1,0 +1,5 @@
+.makefun/
+*.tar.gz
+brief.md
+qwen.log
+.done
